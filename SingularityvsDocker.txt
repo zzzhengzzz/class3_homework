@@ -1,0 +1,8 @@
+Singularity is used when you don’t want to give superuser access to all 
+users, mostly used by scientific application users. The mobility of 
+compute 
+of Singularity allows researchers to run their workflows anywhere, and 
+very suitable on HPC. Docker is used to wrap the piece of software in a 
+complete filesystem that has everything to run and he performance is 
+always the same no matter of its environment. Developers use it often to 
+present their work.
